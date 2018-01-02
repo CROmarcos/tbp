@@ -1,0 +1,13 @@
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Aktiva.resources
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormIzvjestajODobiti.resources
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Izbornik.resources
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IzvjestajONovcanomTijeku.resources
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pasiva.resources
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Matea\Desktop\pi\9.mjesec\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication1
+{
+    public partial class Pasiva : Form
+    {
+        private string godina;
+        private string poduzece;
+
+        public Pasiva()
+        {
+            InitializeComponent();
+        }
+
+        public Pasiva(string selectedText1, string selectedText2)
+        {
+            this.godina = selectedText1;
+            this.poduzece = selectedText2;
+        }
+
+        private void label40_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Pasiva_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
